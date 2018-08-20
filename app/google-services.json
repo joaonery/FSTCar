@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "70982823858",
+    "firebase_url": "https://fstcar-541e8.firebaseio.com",
+    "project_id": "fstcar-541e8",
+    "storage_bucket": "fstcar-541e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70982823858:android:8ff2e6062076f55e",
+        "android_client_info": {
+          "package_name": "com.joaonery.fstcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70982823858-hgh05vivb5mjjut1g1dhc2ipnjbkjpp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa9GGhpBx-eJPwQ4JOw1F5KEj_CB8jY-c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

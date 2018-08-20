@@ -1,0 +1,69 @@
+<resources>
+
+    <!-- Global Strings -->
+    <string name="app_name">FSTCar</string>
+    <string name="g_et_first_name">First name</string>
+    <string name="g_et_last_name">Last name</string>
+    <string name="g_et_email">E-mail</string>
+    <string name="g_et_password">Password</string>
+    <string name="g_rb_male">Male</string>
+    <string name="g_rb_female">Female</string>
+    <string name="g_tv_and_bt_sign_up">Sign Up</string>
+    <string name="g_toast_error">Error</string>
+    <string name="g_toast_empty_fields">One or more fields is empty</string>
+    <string name="g_alert_title">Warning!</string>
+    <string name="g_alert_positive_button">Yes</string>
+    <string name="g_alert_negative_button">No</string>
+
+    <!-- MainActivity Strings -->
+    <string name="ma_bt_sign_in">Sign In</string>
+    <string name="ma_tv_forgot_password">Forgot Password?</string>
+    <string name="ma_toast_login_error">Error while authenticating</string>
+    <string name="ma_toast_forgot_password_success">A password reset was sent</string>
+    <string name="ma_toast_forgot_password_failed">Enter your email in the field above</string>
+
+    <!-- SignUpActivity String -->
+    <string name="title_activity_sign_up">Sign Up</string>
+    <string name="su_alert_msg">Do you want to remove this image?</string>
+    <string name="su_toast_sign_up_error">Error creating account</string>
+
+    <!-- HomeActivity Strings -->
+    <string name="title_activity_home">Home</string>
+    <string name="title_drawer_logout">Logout</string>
+    <string name="ch_tv_build">Construction zone</string>
+
+    <!-- ProfileActivity Strings -->
+    <string name="title_activity_profile">Profile</string>
+    <string name="pa_et_gender">Gender</string>
+
+    <!-- AddressActivity Strings -->
+    <string name="title_activity_address">Address</string>
+    <string name="aa_alert_msg">Do you want to remove this address?</string>
+    <string name="aa_toast_address_removed">Address successfully removed</string>
+    <string name="aa_toast_address_limit">You have reached the maximum of addresses</string>
+
+    <!-- RegisterAddressActivity Strings -->
+    <string name="title_activity_register_address">Register Address</string>
+    <string name="ra_et_zip_code">Zip code</string>
+    <string name="ra_toast_fill_zip_code">Fill in the zip code</string>
+    <string name="ra_toast_invalid_zip_code">Invalid zip code</string>
+    <string name="ra_toat_address_register_fail">Failed to register address</string>
+    <string name="ra_et_state">State</string>
+    <string name="ra_et_city">City</string>
+    <string name="ra_et_district">District</string>
+    <string name="ra_et_street">Street</string>
+    <string name="ra_et_number">Nº</string>
+    <string name="ra_bt_register">Register</string>
+
+    <!-- AboutActivity Strings -->
+    <string name="title_activity_about">About</string>
+    <string name="about_tv_by">Developed by João Nery</string>
+    <string name="about_tv_info">This application is a project for the android class in the computer technical course</string>
+    <string name="about_tv_contact">Contact me</string>
+    <string name="about_tv_site">joaonery.com</string>
+    <string name="about_tv_github">github.com/joaonery</string>
+    <string name="about_tv_linkedin">linkedin.com/in/joao-nery</string>
+    <string name="about_tv_version">Version 1.0</string>
+    <string name="pa_bt_update">Update</string>
+
+</resources>
